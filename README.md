@@ -15,24 +15,6 @@
 📄 &nbsp;And if you want to work with our agency, I can lead teammates. Always looking for new solutions and new challenges, new experiences.
 
 
-### 🛠 &nbsp;Tech Stack
-
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![NumPy](https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white)&nbsp;
-
-
-
 ## 🛠️ My Skills
 
 ### 👉 Programming languages
@@ -86,14 +68,14 @@
 ### 👉 Backend Development
 
 <p align="left"> 
-  &emsp; 
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node%20-%231572B6.svg?logo=css3&logoColor=white">
+  </a>
+&emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="Django" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20">
   </a>   
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="CSS" src="https://img.shields.io/badge/CSS%20-%231572B6.svg?logo=css3&logoColor=white">
-  </a> 
    &emsp;
   <a href="https://getbootstrap.com" target="_blank"> 
     <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
