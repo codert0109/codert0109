@@ -109,15 +109,6 @@
  &emsp; 
 </p>
 
-### 👉 Frameworks
-<p align="left">
-
-&emsp;&ensp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
-&emsp;&ensp;![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white)
-&emsp;&ensp;![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F.svg?style=flat&logo=Spring-Boot&logoColor=white)
-</p>
-
-
 ### 👉 Software & Tools
 
 <p>
@@ -127,8 +118,6 @@
      <a href="#"><img alt="Github" src="https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github"></a>
 &emsp;
     <a href="#"><img alt="NumPy" src="https://img.shields.io/badge/numpy%20-%23013243.svg?&style=flat&logo=numpy&logoColor=white"></a>
-  &emsp;
-    <a href="#"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"></a>
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
   &emsp;
