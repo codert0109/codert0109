@@ -64,7 +64,7 @@
   </a>
   &emsp; 
   <a href="https://reactjs.org" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-%23DD0031.svg?style=flat&logo=react&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React-%23DD0031.svg?style=flat&logo=react&logoColor=blue"/>
   </a>
   &emsp; 
   <a href="https://angular.io" target="_blank"> 
