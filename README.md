@@ -64,7 +64,7 @@
   </a>
   &emsp; 
   <a href="https://reactjs.org" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/React-%23DD0031.svg?style=flat&logo=react&logoColor=blue"/>
+    <img alt="React" src="https://img.shields.io/badge/React-%23DD0031.svg?style=flat&logo=react&logoColor=white"/>
   </a>
   &emsp; 
   <a href="https://angular.io" target="_blank"> 
@@ -82,7 +82,7 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/expressjs%20-%231572B6.svg?logo=expressjs&logoColor=white">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Expressjs%20-%231572B6.svg?logo=expressjs&logoColor=white">
   </a>
 &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
