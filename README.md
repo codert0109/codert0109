@@ -70,9 +70,6 @@
   <a href="https://angular.io" target="_blank"> 
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
   </a>
-  <a href="https://vuewjs.org" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/vue-%23DD0031.svg?style=flat&logo=vue&logoColor=white"/>
-  </a>
   &emsp; 
 </p>
 
@@ -91,10 +88,6 @@
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="Django" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20">
   </a>   
-   &emsp;
-  <a href="https://getbootstrap.com" target="_blank"> 
-    <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat&logo=bootstrap&logoColor=white"/>
-  </a>
 &emsp; 
 </p>
 
@@ -111,6 +104,8 @@
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
+ &emsp; 
+     <a href="https://firebase.google.com/"><img alt="AWS" src ="https://img.shields.io/badge/aws-ffca28?style=flate&logo=aws&logoColor=white"></a>
  &emsp; 
 </p>
 
