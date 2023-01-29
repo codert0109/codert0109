@@ -150,7 +150,7 @@
   <summary><b>💻 GitHub Profile Stats</b></summary>
   <br/>
   <p align="center">
-    <a href="https://github.com/codert0109"><img align="center" src="https://github-readme-stats.vercel.app/api?username=codert0109&show_icons=true&locale=en&theme=algolia" alt="codert0109" height="192px"/></a>
+    <a href="https://github.com/codert0109"><img align="center" src="https://github-readme-stats.vercel.app/api?username=candida18&show_icons=true&locale=en&theme=algolia" alt="codert0109" height="192px"/></a>
 	</p>
 	<p  align="center">
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=codert0109&show_icons=true&locale=en&layout=compact&theme=algolia" alt="codert0109" height="192px"/>
