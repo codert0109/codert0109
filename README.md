@@ -155,12 +155,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-
-
-
-
-
-
-Footer
 © 2023 GitHub, Inc.
