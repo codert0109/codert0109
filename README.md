@@ -78,7 +78,7 @@
 <p align="left"> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node%20-%231572B6.svg?logo=nodejs&logoColor=white">
+    <img alt="NodeJS" src="https://img.shields.io/badge/NodeJS%20-%231572B6.svg?logo=nodejs&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
