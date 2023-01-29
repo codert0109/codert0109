@@ -71,7 +71,7 @@
     <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
   </a>
   <a href="https://vuewjs.org" target="_blank"> 
-    <img alt="Angular" src="https://img.shields.io/badge/vuew-%23DD0031.svg?style=flat&logo=vue&logoColor=white"/>
+    <img alt="Angular" src="https://img.shields.io/badge/vue-%23DD0031.svg?style=flat&logo=vue&logoColor=white"/>
   </a>
   &emsp; 
 </p>
@@ -81,7 +81,11 @@
 <p align="left"> 
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/Node%20-%231572B6.svg?logo=css3&logoColor=white">
+    <img alt="NodeJS" src="https://img.shields.io/badge/Node%20-%231572B6.svg?logo=nodejs&logoColor=white">
+  </a>
+  &emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="NodeJS" src="https://img.shields.io/badge/expressjs%20-%231572B6.svg?logo=expressjs&logoColor=white">
   </a>
 &emsp; 
   <a href="https://www.w3.org/html/" target="_blank"> 
