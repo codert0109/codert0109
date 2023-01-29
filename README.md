@@ -178,16 +178,3 @@ Here are some ideas to get you started:
 
 Footer
 © 2023 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-codert0109/README.md at main · codert0109/codert0109 
