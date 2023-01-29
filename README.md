@@ -99,6 +99,8 @@
   &emsp;
     <a href="https://www.sqlite.org/"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white"/></a>
   &emsp;
+    <a href="https://www.mysql.com/"><img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-00000F?style=flat&logo=mongodb&logoColor=white"></a>
+  &emsp;
     <a href="https://www.heroku.com/"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>  
   &emsp;
     <a href="https://firebase.google.com/"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-ffca28?style=flate&logo=firebase&logoColor=black"></a>
@@ -135,7 +137,7 @@
 
 <br/>
 
-## 📊 Github Stats (Expand to View)
+<!-- ## 📊 Github Stats (Expand to View)
 
 <details> 
   <summary><b>💻 GitHub Profile Stats</b></summary>
@@ -150,7 +152,7 @@
  </p>
 </details>
 
-<br/>
+<br/> -->
 <!--
 **codert0109/codert0109** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
