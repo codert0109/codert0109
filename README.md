@@ -64,10 +64,15 @@
   </a>
   &emsp; 
   <a href="https://reactjs.org" target="_blank"> 
-    <img alt="React" src="https://img.shields.io/badge/react-%23DD0031.svg?style=flat&logo=react&logoColor=white"/>
+    <img alt="React" src="https://img.shields.io/badge/React-%23DD0031.svg?style=flat&logo=react&logoColor=white"/>
   </a>
   &emsp; 
-&emsp;![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white)
+  <a href="https://angular.io" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white"/>
+  </a>
+  <a href="https://vuewjs.org" target="_blank"> 
+    <img alt="Angular" src="https://img.shields.io/badge/vuew-%23DD0031.svg?style=flat&logo=vue&logoColor=white"/>
+  </a>
   &emsp; 
 </p>
 
