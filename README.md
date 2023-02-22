@@ -5,7 +5,7 @@
 ![build: passing](https://img.shields.io/badge/build-passing-success)
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I am working as a Web & Blockchain developer for 7 years and have developed many projects according to clients' needs. \
+💡 &nbsp; I have been working as a Web & Blockchain developer for 7 years and have developed many projects according to clients' needs. \
 💻 &nbsp; I am a self-motivated expert with a solid work ethic and a productive self-starter, which alongside my aptitude for learning, keeps me updated. \
 🎓&nbsp; I am an ambitious man with rich experience.\
 🌱 &nbsp;Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.\
