@@ -86,10 +86,6 @@
   </a>
   &emsp;
   <a href="https://www.w3schools.com/css/" target="_blank">
-    <img alt="NodeJS" src="https://img.shields.io/badge/ExpressJS%20-%231572B6.svg?logo=ExpressJS&logoColor=white">
-  </a>
-&emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="RoR" src="https://img.shields.io/badge/RubyonRails%20-%231572B6.svg?logo=RubyonRails&logoColor=white">
   </a>
 &emsp;
