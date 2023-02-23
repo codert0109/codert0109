@@ -42,7 +42,7 @@
   </a>
    &emsp;
    <a href="https://www.ruby-lang.org/en/" target="_blank">
-    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%2314354C.svg?logo=python&logoColor=white">
+    <img alt="Ruby" src="https://img.shields.io/badge/Ruby%20-%2314354C.svg?logo=ruby&logoColor=white">
   </a>
   &emsp;
   <a href="https://www.php.net/">
