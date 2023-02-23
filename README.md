@@ -88,7 +88,11 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img alt="NodeJS" src="https://img.shields.io/badge/Expressjs%20-%231572B6.svg?logo=expressjs&logoColor=white">
   </a>
-&emsp; 
+&emsp;
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="RoR" src="https://img.shields.io/badge/RubyonRails%20-%231572B6.svg?logo=RubyonRails&logoColor=white">
+  </a>
+&emsp;
   <a href="https://www.w3.org/html/" target="_blank"> 
    <img alt="Django" src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20">
   </a>   
